@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>toolz</title>
+    <link href="http://toolz.pro/feed.xml" rel="self" />
+    <link href="http://toolz.pro" />
+    <updated>2017-09-18T18:58:03+03:00</updated>
+    <author>
+        <name>Дарья</name>
+    </author>
+    <id>http://toolz.pro</id>
+
+    <entry>
+        <title>Как создать крутые баннеры быстро и бесплатно, если вы не дизайнер?</title>
+        <author>
+            <name>Дарья</name>
+        </author>
+        <link href="http://toolz.pro/crello-pochuvstvuy-sebya-dizaynerom/"/>
+        <id>http://toolz.pro/crello-pochuvstvuy-sebya-dizaynerom/</id>
+            <category term="Соцсети"/>
+            <category term="Продуктивность"/>
+            <category term="Дизайн"/>
+            <category term="Графика"/>
+
+        <updated>2017-09-18T16:32:26+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://toolz.pro/media/posts/5/crello2x.png" alt="" />
+                    Вопрос о том, где брать&nbsp;виральные картинки&nbsp;для соцсетей и блогов для вас мучителен?&nbsp;До сих пор считаете, что&nbsp;сделать продающий баннер под силу только профессионалам? Расскажу об инструменте, который позволит сэкономить время, деньги и почувствовать себя дизайнером.
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Альтернативы Вордпресс в 2017 году</title>
+        <author>
+            <name>Дарья</name>
+        </author>
+        <link href="http://toolz.pro/smc-publii-chudo-alternativa-vordpress-copy-2/"/>
+        <id>http://toolz.pro/smc-publii-chudo-alternativa-vordpress-copy-2/</id>
+            <category term="Для блогов"/>
+            <category term="Вордпресс"/>
+            <category term="Publii"/>
+            <category term="Medium"/>
+            <category term="Ghost"/>
+
+        <updated>2017-09-17T21:30:07+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://toolz.pro/media/posts/3/wp-alternatives20172x-2.png" alt="" />
+                    Задумываясь о создании блога, первое, что приходит на ум &mdash;это, разумеется, Вордпресс. Но Вордпресс &mdash; не единственное решение для создания блогов, а иногда, и не самое удачное. Выбираем оптимальную платформу исходя из целей блога.
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Блог на Вордпресс в 2017 году: за и против</title>
+        <author>
+            <name>Дарья</name>
+        </author>
+        <link href="http://toolz.pro/smc-publii-chudo-alternativa-vordpress/"/>
+        <id>http://toolz.pro/smc-publii-chudo-alternativa-vordpress/</id>
+            <category term="Для блогов"/>
+            <category term="Вордпресс"/>
+
+        <updated>2017-09-17T21:01:20+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://toolz.pro/media/posts/1/wordpress20172x.png" alt="" />
+                    Среди блоговых платформ Вордпресс безумно популярен и все еще остается лидером. Но стоит ли создавать блог на Вордпресс в 2017 году?
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+</feed>
