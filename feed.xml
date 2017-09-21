@@ -3,16 +3,36 @@
     <title>toolz</title>
     <link href="http://toolz.pro/feed.xml" rel="self" />
     <link href="http://toolz.pro" />
-    <updated>2017-09-18T20:01:07+03:00</updated>
+    <updated>2017-09-21T03:39:00+03:00</updated>
     <author>
-        <name>Дарья</name>
+        <name>Все статьи</name>
     </author>
     <id>http://toolz.pro</id>
 
     <entry>
-        <title>Как создать крутые баннеры быстро и бесплатно, если вы не дизайнер?</title>
+        <title>Настройка DNS домена: как переопределить ns-записи за 15 минут</title>
         <author>
-            <name>Дарья</name>
+            <name>Все статьи</name>
+        </author>
+        <link href="http://toolz.pro/nastroyka-dns-domena-kak-pereopredelit-ns-zapisi-za-15-minut/"/>
+        <id>http://toolz.pro/nastroyka-dns-domena-kak-pereopredelit-ns-zapisi-za-15-minut/</id>
+            <category term="Разработка"/>
+            <category term="Продуктивность"/>
+            <category term="Для блогов"/>
+
+        <updated>2017-09-19T21:09:42+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://toolz.pro/media/posts/6/dns-force2x.png" alt="" />
+                    Перезапись DNS может длиться до 72 часов. Остается только&nbsp;ждать. А если ждать не хочется, в наших силах ускорить процесс.
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Как создать крутые баннеры быстро и бесплатно, если вы не дизайнер</title>
+        <author>
+            <name>Все статьи</name>
         </author>
         <link href="http://toolz.pro/crello-pochuvstvuy-sebya-dizaynerom/"/>
         <id>http://toolz.pro/crello-pochuvstvuy-sebya-dizaynerom/</id>
@@ -21,7 +41,7 @@
             <category term="Дизайн"/>
             <category term="Графика"/>
 
-        <updated>2017-09-18T16:32:26+03:00</updated>
+        <updated>2017-09-19T21:10:23+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://toolz.pro/media/posts/5/crello2x.png" alt="" />
@@ -33,17 +53,17 @@
     <entry>
         <title>Альтернативы Вордпресс в 2017 году</title>
         <author>
-            <name>Дарья</name>
+            <name>Все статьи</name>
         </author>
-        <link href="http://toolz.pro/smc-publii-chudo-alternativa-vordpress-copy-2/"/>
-        <id>http://toolz.pro/smc-publii-chudo-alternativa-vordpress-copy-2/</id>
+        <link href="http://toolz.pro/wordpress-alternatives-2017/"/>
+        <id>http://toolz.pro/wordpress-alternatives-2017/</id>
             <category term="Для блогов"/>
             <category term="Вордпресс"/>
             <category term="Publii"/>
             <category term="Medium"/>
             <category term="Ghost"/>
 
-        <updated>2017-09-17T21:30:07+03:00</updated>
+        <updated>2017-09-20T18:34:18+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://toolz.pro/media/posts/3/wp-alternatives20172x-2.png" alt="" />
@@ -55,14 +75,14 @@
     <entry>
         <title>Блог на Вордпресс в 2017 году: за и против</title>
         <author>
-            <name>Дарья</name>
+            <name>Все статьи</name>
         </author>
-        <link href="http://toolz.pro/smc-publii-chudo-alternativa-vordpress/"/>
-        <id>http://toolz.pro/smc-publii-chudo-alternativa-vordpress/</id>
+        <link href="http://toolz.pro/smc-publii-chudo-alternativa-wordpress-2/"/>
+        <id>http://toolz.pro/smc-publii-chudo-alternativa-wordpress-2/</id>
             <category term="Для блогов"/>
             <category term="Вордпресс"/>
 
-        <updated>2017-09-17T21:01:20+03:00</updated>
+        <updated>2017-09-20T18:34:57+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://toolz.pro/media/posts/1/wordpress20172x.png" alt="" />

@@ -1,29 +1,27 @@
-/* 
- * Add your own CSS code for the WYSIWYG editor 
+/*
+ * Add your own CSS code for the WYSIWYG editor
  */
 
 .msg {
-	padding: 1.06667rem 1.6rem;
+    padding: 1.06667rem 1.6rem
 }
 
 .msg--highlight {
-	background-color: #F5F5FE;
+    background-color: #f5f5fe
 }
 
 .msg--info {
-	background-color: #EDF9F7;
+    background-color: #edf9f7
 }
 
 .msg--success {
-	background: #FEF3FE;
+    background: #fef3fe
 }
 
 .dropcap:first-letter {
-  float: left; 
-  font-size: 3.65324rem;
-  line-height: 0.6;
-  margin-right: 0.5rem;
-  padding: 0.5rem 0.5rem 0.5rem 0;
+    float: left;
+    font-size: 3.65324rem;
+    line-height: .6;
+    margin-right: .5rem;
+    padding: .5rem .5rem .5rem 0
 }
-
-

@@ -7,17 +7,34 @@
     "user_comment": "",
     "icon": "http://toolz.pro/media/website/toolzpro.svg",
     "author": {
-        "name": "Дарья"
+        "name": "Все статьи"
     },
     "items": [
         {
+            "id": "http://toolz.pro/nastroyka-dns-domena-kak-pereopredelit-ns-zapisi-za-15-minut/",
+            "url": "http://toolz.pro/nastroyka-dns-domena-kak-pereopredelit-ns-zapisi-za-15-minut/",
+            "title": "Настройка DNS домена: как переопределить ns-записи за 15 минут",
+            "summary": "Перезапись DNS может длиться до 72 часов. Остается только&nbsp;ждать. А если ждать не хочется, в наших силах ускорить процесс.",
+            "image": "http://toolz.pro/media/posts/6/dns-force2x.png",
+            "author": {
+                "name": "Все статьи"
+            },
+            "tags": [
+                   "Разработка",
+                   "Продуктивность",
+                   "Для блогов"
+            ],
+            "date_published": "2017-09-19T16:08:20+03:00",
+            "date_modified": "2017-09-19T21:09:42+03:00"
+        },
+        {
             "id": "http://toolz.pro/crello-pochuvstvuy-sebya-dizaynerom/",
             "url": "http://toolz.pro/crello-pochuvstvuy-sebya-dizaynerom/",
-            "title": "Как создать крутые баннеры быстро и бесплатно, если вы не дизайнер?",
+            "title": "Как создать крутые баннеры быстро и бесплатно, если вы не дизайнер",
             "summary": "Вопрос о том, где брать&nbsp;виральные картинки&nbsp;для соцсетей и блогов для вас мучителен?&nbsp;До сих пор считаете, что&nbsp;сделать продающий баннер под силу только профессионалам? Расскажу об инструменте, который позволит сэкономить время, деньги и почувствовать себя дизайнером.",
             "image": "http://toolz.pro/media/posts/5/crello2x.png",
             "author": {
-                "name": "Дарья"
+                "name": "Все статьи"
             },
             "tags": [
                    "Соцсети",
@@ -26,16 +43,16 @@
                    "Графика"
             ],
             "date_published": "2017-09-18T10:23:56+03:00",
-            "date_modified": "2017-09-18T16:32:26+03:00"
+            "date_modified": "2017-09-19T21:10:23+03:00"
         },
         {
-            "id": "http://toolz.pro/smc-publii-chudo-alternativa-vordpress-copy-2/",
-            "url": "http://toolz.pro/smc-publii-chudo-alternativa-vordpress-copy-2/",
+            "id": "http://toolz.pro/wordpress-alternatives-2017/",
+            "url": "http://toolz.pro/wordpress-alternatives-2017/",
             "title": "Альтернативы Вордпресс в 2017 году",
             "summary": "Задумываясь о создании блога, первое, что приходит на ум &mdash;это, разумеется, Вордпресс. Но Вордпресс &mdash; не единственное решение для создания блогов, а иногда, и не самое удачное. Выбираем оптимальную платформу исходя из целей блога.",
             "image": "http://toolz.pro/media/posts/3/wp-alternatives20172x-2.png",
             "author": {
-                "name": "Дарья"
+                "name": "Все статьи"
             },
             "tags": [
                    "Для блогов",
@@ -45,23 +62,23 @@
                    "Ghost"
             ],
             "date_published": "2017-09-16T15:03:45+03:00",
-            "date_modified": "2017-09-17T21:30:07+03:00"
+            "date_modified": "2017-09-20T18:34:18+03:00"
         },
         {
-            "id": "http://toolz.pro/smc-publii-chudo-alternativa-vordpress/",
-            "url": "http://toolz.pro/smc-publii-chudo-alternativa-vordpress/",
+            "id": "http://toolz.pro/smc-publii-chudo-alternativa-wordpress-2/",
+            "url": "http://toolz.pro/smc-publii-chudo-alternativa-wordpress-2/",
             "title": "Блог на Вордпресс в 2017 году: за и против",
             "summary": "Среди блоговых платформ Вордпресс безумно популярен и все еще остается лидером. Но стоит ли создавать блог на Вордпресс в 2017 году?",
             "image": "http://toolz.pro/media/posts/1/wordpress20172x.png",
             "author": {
-                "name": "Дарья"
+                "name": "Все статьи"
             },
             "tags": [
                    "Для блогов",
                    "Вордпресс"
             ],
             "date_published": "2017-09-16T05:34:54+03:00",
-            "date_modified": "2017-09-17T21:01:20+03:00"
+            "date_modified": "2017-09-20T18:34:57+03:00"
         }
     ]
 }
